@@ -9,6 +9,7 @@ from bokeh.util.string import encode_utf8
 
 import pandas as pd
 import quandl
+import requests
 
 app = Flask(__name__)
 
